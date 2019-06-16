@@ -45,5 +45,6 @@
     "last 2 Edge versions",
     "last 2 Opera versions",
     "last 2 OperaMobile versions"
-  ]
+  ],
+  "repository": "https://github.com/timh1203/complete-intro-to-react-v5.git"
 }
